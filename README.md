@@ -1,4 +1,4 @@
-# 📈 Yelp Reviews - End-to-End Sentiment and Data Analytics Project
+# ⭐ Yelp Reviews - End-to-End Sentiment and Data Analytics Project
 
 ![Architecture](https://github.com/Priyanshiishah/Yelp_Business_Reviews_Analysis/blob/50e1ab28873575f22566159c3cee3e778603c23f/Workflow%20of%20Project.png).
 
@@ -38,7 +38,7 @@ This end-to-end data analytics project analyzes **Yelp's open review dataset** (
 
 4. **Apply Sentiment Analysis**  
    Use Snowflake UDF to classify each review as Positive, Neutral, or Negative.  
-   📁 Refer to: [`UDF and tables.sql`](./UDF and tables.sql)
+   📁 Refer to: [`UDF and tables.sql`](./UDF and tables. sql)
 
 5. **Data Exploration & Insights**  
    Perform SQL queries to answer key business questions from the Yelp dataset.
