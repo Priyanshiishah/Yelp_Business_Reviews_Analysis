@@ -1,10 +1,10 @@
 # 📈 Yelp Reviews - End-to-End Sentiment and Data Analytics Project
 
-![Architecture](./Screenshot%202025-05-15%20135011.png)
+![Architecture](https://github.com/Priyanshiishah/Yelp_Business_Reviews_Analysis/blob/50e1ab28873575f22566159c3cee3e778603c23f/Workflow%20of%20Project.png).
 
 ## 📌 Project Overview
 
-This is an end-to-end data analytics project analyzing **Yelp's open review dataset** (7M+ reviews in 5GB JSON). The project covers:
+This end-to-end data analytics project analyzes **Yelp's open review dataset** (7 M+ reviews in 5GB JSON). The project covers:
 
 - Efficient file preprocessing using **Python**
 - Data ingestion into **Amazon S3** and **Snowflake**
